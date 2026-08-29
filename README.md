@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Raikar
 
-<!--
-**raikarshubham/raikarshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Full Stack Developer  
+🤖 Interested in AI/ML & Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Computer Science student passionate about building software,
+solving problems and learning new technologies.
+
+- 🔭 Currently working on software projects
+- 🌱 Learning more about full-stack development and system design
+- 💡 Interested in AI/ML and problem solving
+- 💬 Ask me about C++, JavaScript, React, Node.js and MongoDB
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+C++ • JavaScript • Python • SQL
+
+### Frontend
+
+HTML • CSS • React
+
+### Backend
+
+Node.js • Express.js
+
+### Database
+
+MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Finance Tracker
+
+A full-stack application for tracking income and expenses.
+
+**Tech:** React, Node.js, Express.js, MongoDB
+
+### 🚌 Bus Help
+
+A web-based application designed to help users with bus-related information.
+
+**Tech:** HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+Coming soon...
+
+---
+
+## 🤝 Connect With Me
+
+GitHub • LinkedIn • Email
