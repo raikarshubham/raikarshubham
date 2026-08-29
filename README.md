@@ -150,24 +150,21 @@ Computer Networks
 * Web Development — Coursera
 
 ---
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raikarshubham&show_icons=true&hide_border=true&count_private=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=raikarshubham&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikarshubham&layout=compact&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikarshubham&layout=compact&hide_border=true&langs_count=8" height="180">
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raikarshubham&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=raikarshubham&hide_border=true" height="180">
 
 </div>
 
