@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Shubham Vaikunt Raikar
 
-### 💻 Computer Science Undergraduate | Full-Stack Developer | Problem Solver
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Problem+Solver;C%2B%2B+%7C+C+%7C+Java+%7C+JavaScript+%7C+Python;Building+Secure+%26+Scalable+Applications" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://github.com/raikarshubham">
@@ -11,7 +13,7 @@
   <a href="https://www.linkedin.com/in/shubham-vaikunt-raikar/">
     <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Raikar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:raikarshubhamvaikunt@gmail.com">
+  <a href="mailto:shubhamvraikar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
