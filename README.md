@@ -100,12 +100,18 @@ I'm a Computer Science undergraduate at **N.M.A.M Institute of Technology, Nitte
 
 A full-stack finance management platform for managing personal income, expenses and budgets.
 
-- 🔐 Secure authentication and user-specific data handling
-- 🔌 RESTful API architecture
-- 📊 Month-wise financial analytics
-- 🎯 Budget tracking
-- 🔄 Recurring transactions
-- 📈 Dynamic data visualization using charts
+* 🔐 Secure authentication and user-specific data handling
+* 🔌 RESTful API architecture
+* 📊 Month-wise financial analytics
+* 🎯 Budget tracking
+* 🔄 Recurring transactions
+* 📈 Dynamic data visualization using charts
+
+<p>
+  <a href="https://finance-tracker-chi-one-53.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" alt="Finance Tracker Live Demo">
+  </a>
+</p>
 
 ---
 
@@ -117,11 +123,17 @@ A full-stack finance management platform for managing personal income, expenses 
 
 A web-based hostel complaint management system designed to streamline issue reporting and resolution.
 
-- 📝 Complaint reporting and management
-- 🔌 RESTful APIs
-- 👥 Role-based dashboards
-- ⚡ Real-time complaint tracking
-- 🔧 Streamlined issue reporting and resolution
+* 📝 Complaint reporting and management
+* 🔌 RESTful APIs
+* 👥 Role-based dashboards
+* ⚡ Real-time complaint tracking
+* 🔧 Streamlined issue reporting and resolution
+
+<p>
+  <a href="https://fix-my-hostel-five.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" alt="FixMyHostel Live Demo">
+  </a>
+</p>
 
 ---
 
@@ -133,12 +145,13 @@ A web-based hostel complaint management system designed to streamline issue repo
 
 A full-stack campus e-commerce platform with secure authentication and complete shopping workflows.
 
-- 🔐 JWT-based authentication
-- 📦 Product management
-- 🖼️ Image uploads
-- 👨‍💼 Role-based admin controls
-- 🛍️ Cart and checkout workflows
-- 📦 Order tracking
+* 🔐 JWT-based authentication
+* 📦 Product management
+* 🖼️ Image uploads
+* 👨‍💼 Role-based admin controls
+* 🛍️ Cart and checkout workflows
+* 📦 Order tracking
+
 
 ---
 
