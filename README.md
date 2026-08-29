@@ -181,16 +181,6 @@ A full-stack campus e-commerce platform with secure authentication and complete 
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=raikarshubham&hide_border=true" alt="GitHub Contribution Streak">
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
