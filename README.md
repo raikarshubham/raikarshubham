@@ -166,13 +166,13 @@ A full-stack campus e-commerce platform with secure authentication and complete 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raikarshubham&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=raikarshubham&show_icons=true&hide_border=true&count_private=true" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikarshubham&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikarshubham&layout=compact&hide_border=true" height="180">
 
 </div>
 
